@@ -5,6 +5,4 @@ Téma: Práce s formuláři a dotazníky - Využití elektronických dotazník
 
 Marek Večeřa
 
-Aplikovaná informatika - kombi
-
-1. semestr
+Aplikovaná informatika - kombi, 1. semestr
